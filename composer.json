@@ -1,0 +1,13 @@
+{
+    "name": "piskvor/story-scratch",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "paquettg/php-html-parser": "^1.7",
+        "guzzlehttp/guzzle": "^6.3",
+        "psr/log": "^1.0"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-master"
+    }
+}
